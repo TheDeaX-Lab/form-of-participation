@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/form-of-participation/static/css/main.981f7211.chunk.css",
+    "main.js": "/form-of-participation/static/js/main.585cf12d.chunk.js",
+    "main.js.map": "/form-of-participation/static/js/main.585cf12d.chunk.js.map",
+    "runtime-main.js": "/form-of-participation/static/js/runtime-main.889ab6a3.js",
+    "runtime-main.js.map": "/form-of-participation/static/js/runtime-main.889ab6a3.js.map",
+    "static/css/2.2cfa1b23.chunk.css": "/form-of-participation/static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.1ed8ba70.chunk.js": "/form-of-participation/static/js/2.1ed8ba70.chunk.js",
+    "static/js/2.1ed8ba70.chunk.js.map": "/form-of-participation/static/js/2.1ed8ba70.chunk.js.map",
+    "index.html": "/form-of-participation/index.html",
+    "precache-manifest.058e589340be8c1afee04413518780ba.js": "/form-of-participation/precache-manifest.058e589340be8c1afee04413518780ba.js",
+    "service-worker.js": "/form-of-participation/service-worker.js",
+    "static/css/2.2cfa1b23.chunk.css.map": "/form-of-participation/static/css/2.2cfa1b23.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/form-of-participation/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.1ed8ba70.chunk.js.LICENSE": "/form-of-participation/static/js/2.1ed8ba70.chunk.js.LICENSE",
+    "static/media/persik.png": "/form-of-participation/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.889ab6a3.js",
+    "static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.1ed8ba70.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.585cf12d.chunk.js"
+  ]
+}
